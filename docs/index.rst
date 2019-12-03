@@ -1,6 +1,3 @@
-Welcome to Tilen's documentation!
-=================================
-
 .. figure:: static/images/logo_full.png
 	:align: center
 
@@ -11,7 +8,7 @@ This is an entry point for all the projects which I'm working on now and in the 
     There is a heavy work to be done to transfer all documentation written in doxygen to sphinx.
 
 Projects
-^^^^^^^^
+========
 
 This is a list of projects and link to respective documentation:
 
@@ -24,12 +21,12 @@ This is a list of projects and link to respective documentation:
 * `EasyGUI <https://majerle.eu/documentation/gui/html/index.html>`_: Platform independant graphic user interface, developed in mind for embedded systems with limited amount of memory
 
 Get in touch
-^^^^^^^^^^^^
+============
 
 You can contact me via online contact form available on `my website <https://majerle.eu>`_:
 
 License
-^^^^^^^
+=======
 
 .. literalinclude:: license.txt
 
