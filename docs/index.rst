@@ -1,6 +1,9 @@
 Welcome to Tilen's documentation!
 =================================
 
+.. figure:: static/images/logo_full.png
+	:align: center
+
 Welcome to documentation for software written by Tilen MAJERLE.
 This is an entry point for all the projects which I'm working on now and in the future.
 
