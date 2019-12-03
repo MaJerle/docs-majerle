@@ -23,7 +23,7 @@ This is a list of projects and link to respective documentation:
 Get in touch
 ============
 
-You can contact me via online contact form available on `my website <https://majerle.eu>`_:
+You can contact me via online contact form available on `my website <https://majerle.eu>`_.
 
 License
 =======
