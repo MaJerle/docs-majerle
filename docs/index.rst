@@ -1,4 +1,4 @@
-.. figure:: static/images/logo_full.png
+.. figure:: static/images/logo_tm_full.png
 	:align: center
 
 Welcome to documentation for software written by Tilen MAJERLE.
@@ -17,7 +17,7 @@ This is a list of projects and link to respective documentation:
 * `GPS NMEA Parser <https://majerle.eu/documentation/gps/html/index.html>`_: Platform independent GPS NMEA parser to read and process GPS NMEA 0183 statements
 * `OneWire-UART <https://majerle.eu/documentation/ow/html/index.html>`_: Platform independant OneWire protocol library. Its design is focused for UART hardware on embedded systems
 * `Ring buffer </projects/ringbuff>`_: Platform independant generic `FIFO` library
-* `LwMEM <https://majerle.eu/documentation/lwmem/html/index.html>`_: Lightweight dynamic memory manager, optimized for embedded systems
+* `LwMEM </projects/lwmem>`_: Lightweight dynamic memory manager, optimized for embedded systems
 * `EasyGUI <https://majerle.eu/documentation/gui/html/index.html>`_: Platform independant graphic user interface, developed in mind for embedded systems with limited amount of memory
 
 Get in touch
