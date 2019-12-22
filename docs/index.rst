@@ -28,7 +28,7 @@ You can contact me via online contact form available on `my website <https://maj
 License
 =======
 
-.. literalinclude:: license.txt
+.. literalinclude:: ../LICENSE
 
 .. toctree::
 	:maxdepth: 2
