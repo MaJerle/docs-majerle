@@ -1,3 +1,67 @@
 .wy-side-nav-search {
     background: transparent !important;
 }
+
+/* Reset content div settings */
+.wy-nav-content {
+	max-width: initial !important;
+}
+
+/* Grid setup */
+.grid {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.grid-item {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 auto;
+	flex: 0 0 auto;
+
+	max-width: 200px;
+	margin: 1em;
+
+	text-align: center;
+}
+
+.grid-item a {
+	background: #2980B9;
+	color: #FFFFFF;
+	width: 200px;
+	height: 200px;
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+
+	font-family: Tahoma, Arial !important;
+}
+
+.grid-item a:hover,
+.grid-item a:active {
+	background: #0E4263;
+}
+
+.grid-item p {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin-top: 0.5em;
+	margin-bottom: 0 !important;
+	padding: 1em;
+}
+
+.grid-item .fa,
+.grid-item .fab,
+.grid-item .fas {
+	margin-bottom: 20px;
+    font-size: 3em;
+}

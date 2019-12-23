@@ -86,5 +86,8 @@ html_css_files = [
     'css/common.css',
     'css/custom.css',
 ]
+html_js_files = [
+    'https://kit.fontawesome.com/3102794088.js'
+]
 
 master_doc = 'index'
