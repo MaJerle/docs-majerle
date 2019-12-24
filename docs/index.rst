@@ -4,6 +4,13 @@
 Welcome to documentation for software written by Tilen MAJERLE.
 This is an entry point for all projects I'm working on now and in the future.
 
+.. rst-class:: center
+.. rst-class:: index_links
+
+	`majerle.eu <https://majerle.eu>`_ ·
+	`Github <https://github.com/MaJerle>`_ · 
+	`Linkedin <https://github.com/MaJerle>`_
+
 Projects
 ========
 
@@ -73,4 +80,3 @@ License
 
 .. toctree::
 	:maxdepth: 2
-
