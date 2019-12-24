@@ -23,6 +23,9 @@ Projects
 				<h2>ESP-AT Lib</h2>
 			</a>
 			<p>Control ESP8266 or ESP32 wifi module with host device using official AT commands</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=esp-at-lib&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="https://majerle.eu/documentation/gsm_at/html/index.html">
@@ -30,6 +33,9 @@ Projects
 				<h2>GSM-AT Lib</h2>
 			</a>
 			<p>Generic AT parser for SIMCOM based GSM modules</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=gsm-at-lib&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="/projects/gps-nmea-parser">
@@ -37,6 +43,9 @@ Projects
 				<h2>GPS NMEA Parser</h2>
 			</a>
 			<p>Platform independent GPS NMEA parser to read and process GPS NMEA 0183 statements</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=gps-nmea-parser&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="/projects/onewire-uart">
@@ -44,6 +53,9 @@ Projects
 				<h2>OneWire-UART</h2>
 			</a>
 			<p>Platform independant OneWire protocol library. Its design is focused for UART hardware on embedded systems</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=onewire-uart&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="/projects/ringbuff">
@@ -51,6 +63,9 @@ Projects
 				<h2>Ring buffer</h2>
 			</a>
 			<p>Platform independant generic FIFO library</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=ringbuff&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="/projects/lwmem">
@@ -58,6 +73,9 @@ Projects
 				<h2>LwMEM</h2>
 			</a>
 			<p>Lightweight dynamic memory manager, optimized for embedded systems</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwmem&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="https://majerle.eu/documentation/gui/html/index.html">
@@ -65,6 +83,9 @@ Projects
 				<h2>EasyGUI</h2>
 			</a>
 			<p>Platform independant graphical user interface, developed in mind for embedded systems with limited amount of memory</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=easygui&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="https://github.com/MaJerle/stm32-usart-dma-rx-tx">
@@ -72,6 +93,9 @@ Projects
 				<h2>STM32 UART DMA</h2>
 			</a>
 			<p>STM32 examples for USART using DMA for efficient RX and TX transmission</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32-usart-dma-rx-tx&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 		<div class="grid-item">
 			<a href="https://github.com/MaJerle/c-code-style">
@@ -79,6 +103,9 @@ Projects
 				<h2>C code style</h2>
 			</a>
 			<p>Recommended C code style and coding rules for standard C99 or later</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=c-code-style&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
 		</div>
 	</div>
 
