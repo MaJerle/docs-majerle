@@ -9,7 +9,7 @@ This is an entry point for all projects I'm working on now and in the future.
 
 	`majerle.eu <https://majerle.eu>`_ ·
 	`Github <https://github.com/MaJerle>`_ · 
-	`Linkedin <https://github.com/MaJerle>`_
+	`Linkedin <https://www.linkedin.com/in/tilen-majerle-85a6977>`_
 
 Projects
 ========
@@ -65,6 +65,20 @@ Projects
 				<h2>EasyGUI</h2>
 			</a>
 			<p>Platform independant graphical user interface, developed in mind for embedded systems with limited amount of memory</p>
+		</div>
+		<div class="grid-item">
+			<a href="https://github.com/MaJerle/stm32-usart-dma-rx-tx">
+				<i class="grid-icon fas fa-brackets"></i>
+				<h2>STM32 UART DMA</h2>
+			</a>
+			<p>STM32 examples for USART using DMA for efficient RX and TX transmission</p>
+		</div>
+		<div class="grid-item">
+			<a href="https://github.com/MaJerle/c-code-style">
+				<i class="grid-icon fas fa-brackets-curly"></i>
+				<h2>C code style</h2>
+			</a>
+			<p>Recommended C code style and coding rules for standard C99 or later</p>
 		</div>
 	</div>
 
