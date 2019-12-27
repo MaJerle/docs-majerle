@@ -107,6 +107,26 @@ Projects
 				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=c-code-style&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
 			</div>
 		</div>
+		<div class="grid-item">
+			<a href="https://github.com/MaJerle/stm32f429">
+				<i class="grid-icon fas fa-brackets-curly"></i>
+				<h2>STM32F4xx</h2>
+			</a>
+			<p>Libraries and tutorials for STM32F4xx series of ARM Cortex-M microcontrollers</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32f429&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
+		</div>
+		<div class="grid-item">
+			<a href="https://github.com/MaJerle/stm32fxxx-hal-libraries">
+				<i class="grid-icon fas fa-brackets-curly"></i>
+				<h2>STM32Fxxx HAL Libraries</h2>
+			</a>
+			<p>Libraries and tutorials for STM32Fxxx series of ARM Cortex-M microcontrollers based on HAL library</p>
+			<div class="grid-item-ghbtn">
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32f429&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+			</div>
+		</div>
 	</div>
 
 Get in touch
