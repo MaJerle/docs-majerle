@@ -124,7 +124,7 @@ Projects
 			</a>
 			<p>Libraries and tutorials for STM32Fxxx series of ARM Cortex-M microcontrollers based on HAL library</p>
 			<div class="grid-item-ghbtn">
-				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32f429&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+				<iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32fxxx-hal-libraries&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
 			</div>
 		</div>
 	</div>
