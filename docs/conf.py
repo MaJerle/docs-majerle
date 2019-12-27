@@ -19,7 +19,7 @@ import subprocess, os
 # -- Project information -----------------------------------------------------
 
 project = 'Documentation'
-copyright = '2019, Tilen Majerle'
+copyright = '2019, Tilen MAJERLE'
 author = 'Tilen MAJERLE'
 
 # The full version, including alpha/beta/rc tags
