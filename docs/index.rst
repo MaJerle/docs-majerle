@@ -28,7 +28,7 @@ Projects
 			</div>
 		</div>
 		<div class="grid-item">
-			<a href="https://majerle.eu/documentation/gsm_at/html/index.html">
+			<a href="/projects/gsm-at-lib">
 				<i class="grid-icon fas fa-signal"></i>
 				<h2>GSM-AT Lib</h2>
 			</a>
