@@ -52,7 +52,7 @@ Projects
                 <i class="grid-icon fas fa-network-wired"></i>
                 <h2>OneWire-UART</h2>
             </a>
-            <p>Platform independant OneWire protocol library. Its design is focused for UART hardware on embedded systems</p>
+            <p>Platform independent OneWire protocol library. Its design is focused for UART hardware on embedded systems</p>
             <div class="grid-item-ghbtn">
                 <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=onewire-uart&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
@@ -62,7 +62,7 @@ Projects
                 <i class="grid-icon fab fa-buffer"></i>
                 <h2>Ring buffer</h2>
             </a>
-            <p>Platform independant generic FIFO library</p>
+            <p>Platform independent generic FIFO library</p>
             <div class="grid-item-ghbtn">
                 <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=ringbuff&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
@@ -82,7 +82,7 @@ Projects
                 <i class="grid-icon fab fa-sketch"></i>
                 <h2>EasyGUI</h2>
             </a>
-            <p>Platform independant graphical user interface, developed in mind for embedded systems with limited amount of memory</p>
+            <p>Platform independent graphical user interface, developed in mind for embedded systems with limited amount of memory</p>
             <div class="grid-item-ghbtn">
                 <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=easygui&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
@@ -141,3 +141,4 @@ License
 
 .. toctree::
     :maxdepth: 2
+    
