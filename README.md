@@ -1,0 +1,1 @@
+Sphinx sources for https://docs.majerle.eu
