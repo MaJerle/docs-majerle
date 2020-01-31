@@ -18,7 +18,7 @@ Projects
 
     <div class="grid">
         <div class="grid-item">
-            <a href="/projects/esp-at-lib">
+            <a href="/projects/esp-at-lib/">
                 <i class="grid-icon fas fa-wifi"></i>
                 <h2>ESP-AT Lib</h2>
             </a>
@@ -28,7 +28,7 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/gsm-at-lib">
+            <a href="/projects/gsm-at-lib/">
                 <i class="grid-icon fas fa-signal"></i>
                 <h2>GSM-AT Lib</h2>
             </a>
@@ -38,7 +38,7 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/gps-nmea-parser">
+            <a href="/projects/gps-nmea-parser/">
                 <i class="grid-icon fas fa-map-marker-alt"></i>
                 <h2>GPS NMEA Parser</h2>
             </a>
@@ -48,7 +48,7 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/onewire-uart">
+            <a href="/projects/onewire-uart/">
                 <i class="grid-icon fas fa-network-wired"></i>
                 <h2>OneWire-UART</h2>
             </a>
@@ -58,7 +58,7 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/ringbuff">
+            <a href="/projects/ringbuff/">
                 <i class="grid-icon fab fa-buffer"></i>
                 <h2>Ring buffer</h2>
             </a>
@@ -68,7 +68,7 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/lwmem">
+            <a href="/projects/lwmem/">
                 <i class="grid-icon fas fa-sd-card"></i>
                 <h2>LwMEM</h2>
             </a>
