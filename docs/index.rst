@@ -88,13 +88,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="https://github.com/MaJerle/stm32-usart-dma-rx-tx">
+            <a href="https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx">
                 <i class="grid-icon fas fa-brackets"></i>
                 <h2>STM32 UART DMA</h2>
             </a>
             <p>STM32 examples for USART using DMA for efficient RX and TX transmission</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32-usart-dma-rx-tx&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=stm32-usart-uart-dma-rx-tx&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
