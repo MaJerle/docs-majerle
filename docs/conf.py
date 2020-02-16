@@ -22,8 +22,19 @@ project = 'Documentation'
 copyright = '2020, Tilen MAJERLE'
 author = 'Tilen MAJERLE'
 
+# Try to get branch at which lib is running
+git_branch = ''
+res = os.popen('git branch').read().strip()
+for line in res.split('\\n'):
+    if line[0] == '*':
+        branch = line.replace('*', '').strip()
+
 # The full version, including alpha/beta/rc tags
-release = '1.2.0'
+version = 'master'
+if branch == 'develop':
+    version = 'latest-dev'
+
+print ("VERSION: " + version)
 
 # -- General configuration ---------------------------------------------------
 
