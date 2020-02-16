@@ -33,12 +33,12 @@ for line in res.split("\n"):
     if line[0] == '*':
         git_branch = line[1:].strip()
 
-# Determine display version
+# Decision for display version
 try: 
-    if git_branch.index('develop') != -1 or git_branch.index('origin/develop') != -1:
+    if git_branch.index('develop') >= 0:
         version = "latest-develop"
 except Exception:
-    print("Exception..")
+    printf("Exception for index check")
 
 # For debugging purpose
 print("GIT BRANCH: " + git_branch)
