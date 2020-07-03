@@ -8,7 +8,7 @@ This is an entry point for all projects I'm working on now and in the future.
 .. rst-class:: index_links
 
     `majerle.eu <https://majerle.eu>`_ ·
-    `Github <https://github.com/MaJerle>`_ · 
+    `Github <https://github.com/MaJerle>`_ ·
     `Linkedin <https://www.linkedin.com/in/tilen-majerle-85a6977>`_
 
 Projects
@@ -38,13 +38,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/gps-nmea-parser/">
+            <a href="/projects/lwgps/">
                 <i class="grid-icon fas fa-map-marker-alt"></i>
-                <h2>GPS NMEA Parser</h2>
+                <h2>LwGPS</h2>
             </a>
-            <p>Platform independent GPS NMEA parser to read and process GPS NMEA 0183 statements</p>
+            <p>Lightweight GPS NMEA parser</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=gps-nmea-parser&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwgps&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
@@ -58,13 +58,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/ringbuff/">
+            <a href="/projects/lwrb/">
                 <i class="grid-icon fab fa-buffer"></i>
-                <h2>Ring buffer</h2>
+                <h2>LwRB</h2>
             </a>
-            <p>Platform independent generic FIFO library</p>
+            <p>Lightweight ring buffer manager</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=ringbuff&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwrb&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
@@ -141,4 +141,3 @@ License
 
 .. toctree::
     :maxdepth: 2
-    
