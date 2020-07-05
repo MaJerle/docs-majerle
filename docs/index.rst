@@ -48,13 +48,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/onewire-uart/">
+            <a href="/projects/lwow/">
                 <i class="grid-icon fas fa-network-wired"></i>
-                <h2>OneWire-UART</h2>
+                <h2>LwOW</h2>
             </a>
-            <p>Platform independent OneWire protocol library. Its design is focused for UART hardware on embedded systems</p>
+            <p>Lightweight onewire library optimized using UART hardware for embedded system</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=onewire-uart&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwow&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
