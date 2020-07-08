@@ -18,13 +18,13 @@ Projects
 
     <div class="grid">
         <div class="grid-item">
-            <a href="/projects/esp-at-lib/">
+            <a href="/projects/lwesp/">
                 <i class="grid-icon fas fa-wifi"></i>
-                <h2>ESP-AT Lib</h2>
+                <h2>LwESP</h2>
             </a>
-            <p>Control ESP8266 or ESP32 wifi module with host device using official AT commands</p>
+            <p>Lightweight ESP AT parser library to communicate with ESP8266 or ESP32 wifi devices using AT commands</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=esp-at-lib&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwesp&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
