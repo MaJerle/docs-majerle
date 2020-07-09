@@ -28,13 +28,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/gsm-at-lib/">
+            <a href="/projects/lwgsm/">
                 <i class="grid-icon fas fa-signal"></i>
-                <h2>GSM-AT Lib</h2>
+                <h2>LwGSM</h2>
             </a>
-            <p>Generic AT parser for SIMCOM based GSM modules</p>
+            <p>Lightweight GSM AT parser library for SIMCOM modules</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=gsm-at-lib&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwgsm&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
