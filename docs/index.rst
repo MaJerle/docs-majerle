@@ -79,7 +79,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwprintf/">
-                <i class="grid-icon fas fa-sd-card"></i>
+                <i class="grid-icon fas fa-print"></i>
                 <h2>LwPRINTF</h2>
             </a>
             <p>Lightweight stdio output manager, optimized for embedded systems</p>
