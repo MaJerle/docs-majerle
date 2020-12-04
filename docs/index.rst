@@ -88,6 +88,26 @@ Projects
             </div>
         </div>
         <div class="grid-item">
+            <a href="/projects/lwpkt/">
+                <i class="grid-icon fas fa-brackets-curly"></i>
+                <h2>LwPKT</h2>
+            </a>
+            <p>Lightweight packet protocol manager for multi-device communication</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwpkt&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
+            <a href="/projects/lwjson/">
+                <i class="grid-icon fas fa-brackets-curly"></i>
+                <h2>LwJSON</h2>
+            </a>
+            <p>Lightweight JSON string parser for embedded systems</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwjson&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
             <a href="https://majerle.eu/documentation/gui/html/index.html">
                 <i class="grid-icon fab fa-sketch"></i>
                 <h2>EasyGUI</h2>
