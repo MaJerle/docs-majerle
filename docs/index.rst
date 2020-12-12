@@ -19,7 +19,7 @@ Projects
     <div class="grid">
         <div class="grid-item">
             <a href="/projects/lwesp/">
-                <i class="grid-icon fas fa-wifi"></i>
+                <i class="grid-icon fa fa-wifi"></i>
                 <h2>LwESP</h2>
             </a>
             <p>Lightweight ESP AT parser library to communicate with ESP8266 or ESP32 wifi devices using AT commands</p>
@@ -29,7 +29,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwgsm/">
-                <i class="grid-icon fas fa-signal"></i>
+                <i class="grid-icon fa fa-signal"></i>
                 <h2>LwGSM</h2>
             </a>
             <p>Lightweight GSM AT parser library for SIMCOM modules</p>
@@ -39,7 +39,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwgps/">
-                <i class="grid-icon fas fa-map-marker-alt"></i>
+                <i class="grid-icon fa fa-map-marker"></i>
                 <h2>LwGPS</h2>
             </a>
             <p>Lightweight GPS NMEA parser</p>
@@ -49,7 +49,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwow/">
-                <i class="grid-icon fas fa-network-wired"></i>
+                <i class="grid-icon fa fa-network-wired"></i>
                 <h2>LwOW</h2>
             </a>
             <p>Lightweight onewire library optimized using UART hardware for embedded system</p>
@@ -69,7 +69,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwmem/">
-                <i class="grid-icon fas fa-sd-card"></i>
+                <i class="grid-icon fa fa-sd-card"></i>
                 <h2>LwMEM</h2>
             </a>
             <p>Lightweight dynamic memory manager, optimized for embedded systems</p>
@@ -79,7 +79,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwprintf/">
-                <i class="grid-icon fas fa-print"></i>
+                <i class="grid-icon fa fa-print"></i>
                 <h2>LwPRINTF</h2>
             </a>
             <p>Lightweight stdio output manager, optimized for embedded systems</p>
@@ -89,7 +89,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwpkt/">
-                <i class="grid-icon fas fa-brackets-curly"></i>
+                <i class="grid-icon fa fa-brackets-curly"></i>
                 <h2>LwPKT</h2>
             </a>
             <p>Lightweight packet protocol manager for multi-device communication</p>
@@ -99,7 +99,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwjson/">
-                <i class="grid-icon fas fa-brackets-curly"></i>
+                <i class="grid-icon fa fa-brackets-curly"></i>
                 <h2>LwJSON</h2>
             </a>
             <p>Lightweight JSON string parser for embedded systems</p>
@@ -119,7 +119,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx">
-                <i class="grid-icon fas fa-brackets"></i>
+                <i class="grid-icon fa fa-brackets"></i>
                 <h2>STM32 UART DMA</h2>
             </a>
             <p>STM32 examples for USART using DMA for efficient RX and TX transmission</p>
@@ -129,7 +129,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/c-code-style">
-                <i class="grid-icon fas fa-brackets-curly"></i>
+                <i class="grid-icon fa fa-brackets-curly"></i>
                 <h2>C code style</h2>
             </a>
             <p>Recommended C code style and coding rules for standard C99 or later</p>
@@ -139,7 +139,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32f429">
-                <i class="grid-icon fas fa-brackets-curly"></i>
+                <i class="grid-icon fa fa-brackets-curly"></i>
                 <h2>STM32F4xx</h2>
             </a>
             <p>Libraries and tutorials for STM32F4xx series of ARM Cortex-M microcontrollers</p>
@@ -149,7 +149,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32fxxx-hal-libraries">
-                <i class="grid-icon fas fa-brackets-curly"></i>
+                <i class="grid-icon fa fa-brackets-curly"></i>
                 <h2>STM32Fxxx HAL Libraries</h2>
             </a>
             <p>Libraries and tutorials for STM32Fxxx series of ARM Cortex-M microcontrollers based on HAL library</p>

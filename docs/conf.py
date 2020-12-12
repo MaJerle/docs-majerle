@@ -21,7 +21,7 @@ import subprocess, os
 project = 'Documentation'
 copyright = '2020, Tilen MAJERLE'
 author = 'Tilen MAJERLE'
-            
+
 # The full version, including alpha/beta/rc tags
 version = ''
 
@@ -34,7 +34,7 @@ for line in res.split("\n"):
         git_branch = line[1:].strip()
 
 # Decision for display version
-try: 
+try:
     if git_branch.index('develop') >= 0:
         version = "latest-develop"
 except Exception:
@@ -85,7 +85,7 @@ html_theme_options = {
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
-    
+
     'logo_only': False,
 
     # Toc options
@@ -108,7 +108,8 @@ html_css_files = [
     'css/custom.css',
 ]
 html_js_files = [
-    'https://kit.fontawesome.com/3102794088.js'
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css',
+    ''
 ]
 
 master_doc = 'index'
