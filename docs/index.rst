@@ -89,7 +89,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwmem/">
-                <i class="grid-icon fa fa-sd-card"></i>
+                <i class="grid-icon fa fa-database"></i>
                 <h2>LwMEM</h2>
             </a>
             <p>Lightweight dynamic memory manager, optimized for embedded systems</p>
@@ -109,7 +109,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwpkt/">
-                <i class="grid-icon fa fa-brackets-curly"></i>
+                <i class="grid-icon fas fa-envelope"></i>
                 <h2>LwPKT</h2>
             </a>
             <p>Lightweight packet protocol manager for multi-device communication</p>
@@ -119,7 +119,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwjson/">
-                <i class="grid-icon fa fa-brackets-curly"></i>
+                <i class="grid-icon fas fa-code"></i>
                 <h2>LwJSON</h2>
             </a>
             <p>Lightweight JSON string parser for embedded systems</p>
@@ -139,7 +139,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32-usart-uart-dma-rx-tx">
-                <i class="grid-icon fa fa-brackets"></i>
+                <i class="grid-icon fas fa-microchip"></i>
                 <h2>STM32 UART DMA</h2>
             </a>
             <p>STM32 examples for USART using DMA for efficient RX and TX transmission</p>
@@ -149,7 +149,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/c-code-style">
-                <i class="grid-icon fa fa-brackets-curly"></i>
+                <i class="grid-icon fas fa-code"></i>
                 <h2>C code style</h2>
             </a>
             <p>Recommended C code style and coding rules for standard C99 or later</p>
@@ -159,7 +159,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32f429">
-                <i class="grid-icon fa fa-brackets-curly"></i>
+                <i class="grid-icon fas fa-microchip"></i>
                 <h2>STM32F4xx</h2>
             </a>
             <p>Libraries and tutorials for STM32F4xx series of ARM Cortex-M microcontrollers</p>
@@ -169,7 +169,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="https://github.com/MaJerle/stm32fxxx-hal-libraries">
-                <i class="grid-icon fa fa-brackets-curly"></i>
+                <i class="grid-icon fas fa-microchip"></i>
                 <h2>STM32Fxxx HAL Libraries</h2>
             </a>
             <p>Libraries and tutorials for STM32Fxxx series of ARM Cortex-M microcontrollers based on HAL library</p>
