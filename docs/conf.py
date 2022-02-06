@@ -110,9 +110,9 @@ html_static_path = ['static']
 html_css_files = [
     'css/common.css',
     'css/custom.css',
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css',
 ]
 html_js_files = [
-    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css',
     ''
 ]
 
