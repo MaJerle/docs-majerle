@@ -49,7 +49,7 @@ Projects
         </div>
         <div class="grid-item">
             <a href="/projects/lwow/">
-                <i class="grid-icon fa fas-network-wired"></i>
+                <i class="grid-icon fas fas-network-wired"></i>
                 <h2>LwOW</h2>
             </a>
             <p>Lightweight onewire library optimized using UART hardware for embedded system</p>
