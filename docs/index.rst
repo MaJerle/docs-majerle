@@ -58,6 +58,16 @@ Projects
             </div>
         </div>
         <div class="grid-item">
+            <a href="/projects/lwshell/">
+                <i class="grid-icon fa fa-terminal"></i>
+                <h2>LwSHELL</h2>
+            </a>
+            <p>Lightweight shell library for embedded systems</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwshell&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
             <a href="/projects/lwdtc/">
                 <i class="grid-icon fa fa-calendar"></i>
                 <h2>LwDTC</h2>
