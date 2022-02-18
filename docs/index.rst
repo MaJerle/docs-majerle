@@ -1,3 +1,5 @@
+.. rst-class:: logo-image
+
 .. figure:: static/images/logo_tm_full.png
     :align: center
 
