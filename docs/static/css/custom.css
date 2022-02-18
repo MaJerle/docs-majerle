@@ -2,11 +2,6 @@
     background: transparent !important;
 }
 
-/* Reset content div settings */
-.wy-nav-content {
-	max-width: initial !important;
-}
-
 /* Grid setup */
 .grid {
 	display: -webkit-box;
