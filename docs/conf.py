@@ -16,11 +16,11 @@
 from sphinx.builders.html import StandaloneHTMLBuilder
 import subprocess, os
 
-# -- Project information -----------------------------------------------------
-
+# -- Project information ---------------------------------------------------
 project = 'Documentation'
-copyright = '2020, Tilen MAJERLE'
+copyright = '2022, Tilen MAJERLE'
 author = 'Tilen MAJERLE'
+
 
 # Try to get branch at which this is running
 # and try to determine which version to display in sphinx
@@ -62,6 +62,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx.ext.graphviz',
     'sphinx_sitemap',
 
     'breathe',
@@ -116,4 +117,5 @@ html_js_files = [
     ''
 ]
 
+# Master index file
 master_doc = 'index'
