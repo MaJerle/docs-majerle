@@ -60,6 +60,16 @@ Projects
             </div>
         </div>
         <div class="grid-item">
+            <a href="/projects/lwevt/">
+                <i class="grid-icon fas fa-network-wired"></i>
+                <h2>LwEVT</h2>
+            </a>
+            <p>Lightweight event manager for embedded systems</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwevt&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
             <a href="/projects/lwshell/">
                 <i class="grid-icon fa fa-terminal"></i>
                 <h2>LwSHELL</h2>
