@@ -90,6 +90,16 @@ Projects
             </div>
         </div>
         <div class="grid-item">
+            <a href="/projects/lwbtn/">
+                <i class="grid-icon fa fa-calendar"></i>
+                <h2>LwDTC</h2>
+            </a>
+            <p>Lightweight button library</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwbtn&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
             <a href="/projects/lwrb/">
                 <i class="grid-icon fab fa-buffer"></i>
                 <h2>LwRB</h2>
@@ -206,9 +216,10 @@ License
     :caption: Projects
     :hidden:
 
-    self
+    LwBTN - Button manager <https://github.com/MaJerle/lwbtn>
     LwDTC - DateTimeCron <https://github.com/MaJerle/lwdtc>
     LwESP - ESP-AT library <https://github.com/MaJerle/lwesp>
+    LwEVT - Event manager <https://github.com/MaJerle/lwevt>
     LwGPS - GPS NMEA parser <https://github.com/MaJerle/lwgps>
     LwGSM - GSM-AT library <https://github.com/MaJerle/lwgsm>
     LwJSON - JSON parser <https://github.com/MaJerle/lwjson>
