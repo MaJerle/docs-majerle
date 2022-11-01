@@ -92,7 +92,7 @@ Projects
         <div class="grid-item">
             <a href="/projects/lwbtn/">
                 <i class="grid-icon fa fa-calendar"></i>
-                <h2>LwDTC</h2>
+                <h2>LwBTN</h2>
             </a>
             <p>Lightweight button library</p>
             <div class="grid-item-ghbtn">
