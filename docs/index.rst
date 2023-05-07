@@ -150,6 +150,16 @@ Projects
             </div>
         </div>
         <div class="grid-item">
+            <a href="/projects/lwwdg/">
+                <i class="grid-icon fas fa-code"></i>
+                <h2>LwWDG</h2>
+            </a>
+            <p>Lightweight watchdog system for operating systems</p>
+            <div class="grid-item-ghbtn">
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwwdg&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+            </div>
+        </div>
+        <div class="grid-item">
             <a href="https://majerle.eu/documentation/gui/html/index.html">
                 <i class="grid-icon fab fa-sketch"></i>
                 <h2>EasyGUI</h2>
