@@ -1,0 +1,32 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+        {
+            "label": "Docs: Install python plugins from requirements.txt file",
+            "type": "shell",
+            "command": "python -m pip install -r requirements.txt",
+            "options": {
+                "cwd": "${workspaceFolder}/docs"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Docs: Generate html",
+            "type": "shell",
+            "command": ".\\make html",
+            "options": {
+                "cwd": "${workspaceFolder}/docs"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Docs: Clean build directory",
+            "type": "shell",
+            "command": ".\\make clean",
+            "options": {
+                "cwd": "${workspaceFolder}/docs"
+            },
+            "problemMatcher": []
+        },
+    ]
+}
