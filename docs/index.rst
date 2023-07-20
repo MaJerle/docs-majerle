@@ -30,13 +30,13 @@ Projects
             </div>
         </div>
         <div class="grid-item">
-            <a href="/projects/lwgsm/">
+            <a href="/projects/lwcell/">
                 <i class="grid-icon fa fa-signal"></i>
-                <h2>LwGSM</h2>
+                <h2>LwCELL</h2>
             </a>
-            <p>Lightweight GSM AT parser library for SIMCOM modules</p>
+            <p>Lightweight cellular modem host AT library</p>
             <div class="grid-item-ghbtn">
-                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwgsm&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
+                <iframe src="https://ghbtns.com/github-btn.html?user=MaJerle&repo=lwcell&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="24px"></iframe>
             </div>
         </div>
         <div class="grid-item">
@@ -231,7 +231,7 @@ License
     LwESP - ESP-AT library <https://github.com/MaJerle/lwesp>
     LwEVT - Event manager <https://github.com/MaJerle/lwevt>
     LwGPS - GPS NMEA parser <https://github.com/MaJerle/lwgps>
-    LwGSM - GSM-AT library <https://github.com/MaJerle/lwgsm>
+    LwCELL - Cellular modem host AT library <https://github.com/MaJerle/lwcell>
     LwJSON - JSON parser <https://github.com/MaJerle/lwjson>
     LwMEM - Memory manager <https://github.com/MaJerle/lwmem>
     LwOW - OneWire with UART <https://github.com/MaJerle/lwow>
