@@ -227,11 +227,11 @@ License
     :hidden:
 
     LwBTN - Button manager <https://github.com/MaJerle/lwbtn>
+    LwCELL - Cellular modem host AT library <https://github.com/MaJerle/lwcell>
     LwDTC - DateTimeCron <https://github.com/MaJerle/lwdtc>
     LwESP - ESP-AT library <https://github.com/MaJerle/lwesp>
     LwEVT - Event manager <https://github.com/MaJerle/lwevt>
     LwGPS - GPS NMEA parser <https://github.com/MaJerle/lwgps>
-    LwCELL - Cellular modem host AT library <https://github.com/MaJerle/lwcell>
     LwJSON - JSON parser <https://github.com/MaJerle/lwjson>
     LwMEM - Memory manager <https://github.com/MaJerle/lwmem>
     LwOW - OneWire with UART <https://github.com/MaJerle/lwow>
@@ -240,3 +240,4 @@ License
     LwRB - Ring buffer <https://github.com/MaJerle/lwrb>
     LwSHELL - Shell <https://github.com/MaJerle/lwshell>
     LwUTIL - Utility functions <https://github.com/MaJerle/lwutil>
+    LwWDG - Lightweight watchdog <https://github.com/MaJerle/lwwdg>
