@@ -18,7 +18,7 @@ import subprocess, os
 
 # -- Project information ---------------------------------------------------
 project = 'Documentation'
-copyright = '2023, Tilen MAJERLE'
+copyright = '2025, Tilen MAJERLE'
 author = 'Tilen MAJERLE'
 
 
